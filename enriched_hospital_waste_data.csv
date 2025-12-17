@@ -1,0 +1,501 @@
+Waste_Type,Weight_kg,Infectious,Bin_Color,Hazardous,Department,Date
+"General Waste (food, kitchen, paper, office waste)",2.72,No,Green,0,General Ward,2024-02-09
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",1.92,Yes,Yellow,1,Pharmacy,2024-09-05
+"General Waste (food, kitchen, paper, office waste)",4.62,No,Green,0,Surgical Ward,2024-06-17
+Human Anatomical Waste,4.2,Yes,Yellow,1,General Ward,2024-12-21
+Metallic Implants,1.55,Yes,Blue/White,1,Laboratory,2024-04-18
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",3.4,No,Yellow,1,Pharmacy,2024-07-19
+"Plastic Waste (blood bags, urine bags, disposable plastic)",1.18,No,Red,1,Emergency Room,2024-08-24
+Expired or Discarded Medicines,2.61,Yes,Yellow,1,Surgical Ward,2024-06-24
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",2.96,No,Yellow,1,Surgical Ward,2024-06-11
+Pressurized Containers (aerosol cans),4.77,No,Black,1,Laboratory,2024-03-03
+"Chemical Waste (discarded disinfectants, heavy metals)",2.48,Yes,Black,1,Laboratory,2024-12-15
+Pressurized Containers (aerosol cans),2.56,No,Black,1,Surgical Ward,2024-04-19
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",4.58,Yes,Red,1,Laboratory,2024-11-11
+"Sharps Waste (needles, scalpels, blades)",0.39,Yes,Blue/White,1,ICU,2024-12-30
+"Chemical Waste (used disinfectants, lab chemicals)",0.89,No,Yellow,1,Pharmacy,2024-12-18
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",1.06,No,Yellow,1,General Ward,2024-06-09
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",3.17,No,Red,1,General Ward,2024-08-13
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",0.6,Yes,Yellow,1,Emergency Room,2024-08-18
+"Glassware (ampules, glass vials, slides)",4.98,Yes,Blue/White,1,General Ward,2024-12-17
+Discarded Medicines (cytotoxic drugs),0.41,No,Black,1,General Ward,2024-12-05
+Pressurized Containers (aerosol cans),0.53,No,Black,1,ICU,2024-05-16
+Discarded Medicines (cytotoxic drugs),3.11,No,Black,1,General Ward,2024-12-06
+"Sharps Waste (needles, scalpels, blades)",0.82,No,Blue/White,1,ICU,2024-03-20
+"Packaging Material (wrappers, cardboard)",1.02,Yes,Green,1,Surgical Ward,2024-12-02
+Pressurized Containers (aerosol cans),4.06,No,Black,1,Emergency Room,2024-06-24
+Discarded Medicines (cytotoxic drugs),0.82,No,Black,1,Emergency Room,2024-09-04
+Non-hazardous Garden Waste,2.37,No,Green,1,General Ward,2024-02-19
+Human Anatomical Waste,4.9,Yes,Yellow,1,Surgical Ward,2024-05-02
+"Sharps Waste (needles, scalpels, blades)",4.67,No,Blue/White,1,Emergency Room,2024-07-14
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",0.15,Yes,Yellow,1,General Ward,2024-12-02
+Non-hazardous Garden Waste,0.81,No,Green,1,Laboratory,2024-03-04
+"Plastic Waste (blood bags, urine bags, disposable plastic)",0.52,Yes,Red,1,General Ward,2024-07-04
+Non-hazardous Garden Waste,4.06,No,Green,1,Surgical Ward,2024-04-23
+Human Anatomical Waste,1.32,Yes,Yellow,1,ICU,2024-09-18
+"Sharps Waste (needles, scalpels, blades)",0.07,Yes,Blue/White,1,Emergency Room,2024-11-03
+"Chemical Waste (discarded disinfectants, heavy metals)",1.15,Yes,Black,1,General Ward,2024-05-22
+"Sharps Waste (needles, scalpels, blades)",2.21,Yes,Blue/White,1,General Ward,2024-03-08
+Non-hazardous Garden Waste,3.28,No,Green,1,ICU,2024-12-11
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",4.35,Yes,Yellow,1,General Ward,2024-09-05
+"Sharps Waste (needles, scalpels, blades)",2.9,No,Blue/White,1,ICU,2024-08-10
+Discarded Medicines (cytotoxic drugs),4.88,Yes,Black,1,General Ward,2024-08-18
+"Chemical Waste (used disinfectants, lab chemicals)",2.96,No,Yellow,1,Emergency Room,2024-04-05
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",3.14,No,Yellow,1,Pharmacy,2024-10-26
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",0.49,No,Yellow,1,Emergency Room,2024-02-12
+"Sharps Waste (needles, scalpels, blades)",2.19,No,Blue/White,1,Surgical Ward,2024-01-17
+Human Anatomical Waste,3.85,Yes,Yellow,1,General Ward,2024-02-25
+"Chemical Waste (used disinfectants, lab chemicals)",3.55,Yes,Yellow,1,ICU,2024-04-10
+Non-hazardous Garden Waste,3.95,Yes,Green,1,Surgical Ward,2024-07-17
+Metallic Implants,3.48,No,Blue/White,1,ICU,2024-01-01
+Expired or Discarded Medicines,4.6,No,Yellow,1,Pharmacy,2024-04-17
+Discarded Medicines (cytotoxic drugs),1.76,No,Black,1,Surgical Ward,2024-05-15
+"Packaging Material (wrappers, cardboard)",3.61,No,Green,1,General Ward,2024-08-22
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",3.03,No,Yellow,1,ICU,2024-05-21
+"Plastic Waste (blood bags, urine bags, disposable plastic)",2.3,Yes,Red,1,General Ward,2024-01-20
+Human Anatomical Waste,3.1,Yes,Yellow,1,ICU,2024-11-17
+Human Anatomical Waste,4.48,Yes,Yellow,1,General Ward,2024-07-19
+"Glassware (ampules, glass vials, slides)",3.83,No,Blue/White,1,General Ward,2024-09-03
+Non-hazardous Garden Waste,3.99,Yes,Green,1,Emergency Room,2024-02-14
+"Plastic Waste (blood bags, urine bags, disposable plastic)",3.6,No,Red,1,General Ward,2024-03-21
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",0.09,Yes,Yellow,1,Surgical Ward,2024-12-04
+"Plastic Waste (blood bags, urine bags, disposable plastic)",0.41,Yes,Red,1,Laboratory,2024-01-04
+"Packaging Material (wrappers, cardboard)",3.33,Yes,Green,1,Laboratory,2024-10-12
+"Plastic Waste (blood bags, urine bags, disposable plastic)",2.92,Yes,Red,1,Emergency Room,2024-12-25
+"General Waste (food, kitchen, paper, office waste)",4.6,No,Green,0,ICU,2024-05-12
+Discarded Medicines (cytotoxic drugs),0.61,Yes,Black,1,General Ward,2024-08-16
+"Sharps Waste (needles, scalpels, blades)",2.56,Yes,Blue/White,1,General Ward,2024-07-11
+"Chemical Waste (discarded disinfectants, heavy metals)",3.23,No,Black,1,Emergency Room,2024-02-02
+Non-hazardous Garden Waste,1.94,Yes,Green,1,ICU,2024-07-29
+"Chemical Waste (discarded disinfectants, heavy metals)",3.68,Yes,Black,1,General Ward,2024-07-11
+Discarded Medicines (cytotoxic drugs),0.19,Yes,Black,1,Emergency Room,2024-01-04
+Metallic Implants,1.64,Yes,Blue/White,1,General Ward,2024-10-10
+"Chemical Waste (discarded disinfectants, heavy metals)",0.17,No,Black,1,Surgical Ward,2024-06-15
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",0.78,Yes,Red,1,Laboratory,2024-10-05
+"Plastic Waste (blood bags, urine bags, disposable plastic)",4.12,Yes,Red,1,ICU,2024-06-09
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",2.42,Yes,Yellow,1,General Ward,2024-02-26
+"Chemical Waste (used disinfectants, lab chemicals)",3.27,No,Yellow,1,Emergency Room,2024-06-30
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",3.77,Yes,Yellow,1,General Ward,2024-07-05
+Metallic Implants,2.63,No,Blue/White,1,Pharmacy,2024-02-27
+Expired or Discarded Medicines,4.43,No,Yellow,1,Emergency Room,2024-07-16
+"General Waste (food, kitchen, paper, office waste)",3.7,No,Green,0,General Ward,2024-09-13
+Discarded Medicines (cytotoxic drugs),0.34,No,Black,1,Surgical Ward,2024-02-22
+"Sharps Waste (needles, scalpels, blades)",0.3,No,Blue/White,1,Laboratory,2024-05-14
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",3.25,Yes,Yellow,1,Surgical Ward,2024-04-28
+Non-hazardous Garden Waste,3.97,No,Green,1,Emergency Room,2024-09-16
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",0.78,No,Red,1,Laboratory,2024-01-18
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",4.94,Yes,Red,1,General Ward,2024-10-31
+Metallic Implants,4.43,Yes,Blue/White,1,General Ward,2024-01-08
+Human Anatomical Waste,3.36,Yes,Yellow,1,Surgical Ward,2024-03-05
+Expired or Discarded Medicines,3.13,Yes,Yellow,1,Surgical Ward,2024-03-18
+"Chemical Waste (discarded disinfectants, heavy metals)",2.35,Yes,Black,1,General Ward,2024-08-14
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",3.43,No,Red,1,Pharmacy,2024-06-06
+Human Anatomical Waste,1.15,Yes,Yellow,1,Surgical Ward,2024-06-25
+"Chemical Waste (discarded disinfectants, heavy metals)",4.14,Yes,Black,1,Emergency Room,2024-06-15
+Expired or Discarded Medicines,0.64,No,Yellow,1,ICU,2024-11-15
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",3.07,Yes,Red,1,ICU,2024-03-27
+Metallic Implants,4.16,No,Blue/White,1,Emergency Room,2024-10-30
+Discarded Medicines (cytotoxic drugs),3.89,Yes,Black,1,General Ward,2024-08-28
+"General Waste (food, kitchen, paper, office waste)",2.33,No,Green,0,General Ward,2024-11-14
+"General Waste (food, kitchen, paper, office waste)",2.55,No,Green,0,Laboratory,2024-04-06
+"Chemical Waste (discarded disinfectants, heavy metals)",3.98,Yes,Black,1,Laboratory,2024-04-14
+Metallic Implants,2.79,No,Blue/White,1,Surgical Ward,2024-01-01
+"Packaging Material (wrappers, cardboard)",2.58,No,Green,1,General Ward,2024-06-26
+Non-hazardous Garden Waste,0.61,No,Green,1,Surgical Ward,2024-11-20
+Discarded Medicines (cytotoxic drugs),4.78,No,Black,1,Laboratory,2024-08-09
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",1.74,Yes,Red,1,Emergency Room,2024-11-28
+"Plastic Waste (blood bags, urine bags, disposable plastic)",1.65,No,Red,1,Emergency Room,2024-11-10
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",2.75,No,Red,1,ICU,2024-05-22
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",4.24,Yes,Red,1,Laboratory,2024-10-11
+"Packaging Material (wrappers, cardboard)",4.63,No,Green,1,Pharmacy,2024-07-13
+"Packaging Material (wrappers, cardboard)",0.3,No,Green,1,Laboratory,2024-04-15
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",3.42,Yes,Red,1,General Ward,2024-10-01
+"Glassware (ampules, glass vials, slides)",4.92,No,Blue/White,1,Emergency Room,2024-08-22
+Pressurized Containers (aerosol cans),4.96,Yes,Black,1,Emergency Room,2024-07-25
+"Chemical Waste (discarded disinfectants, heavy metals)",1.25,Yes,Black,1,General Ward,2024-02-28
+"Chemical Waste (discarded disinfectants, heavy metals)",0.16,Yes,Black,1,General Ward,2024-07-14
+"Plastic Waste (blood bags, urine bags, disposable plastic)",1.94,Yes,Red,1,Emergency Room,2024-07-12
+"Glassware (ampules, glass vials, slides)",0.23,No,Blue/White,1,Emergency Room,2024-04-02
+Human Anatomical Waste,4.42,Yes,Yellow,1,Laboratory,2024-02-23
+"Plastic Waste (blood bags, urine bags, disposable plastic)",4.56,No,Red,1,General Ward,2024-08-09
+"Plastic Waste (blood bags, urine bags, disposable plastic)",3.63,Yes,Red,1,Surgical Ward,2024-06-27
+"Glassware (ampules, glass vials, slides)",0.64,No,Blue/White,1,General Ward,2024-11-12
+"Glassware (ampules, glass vials, slides)",3.3,Yes,Blue/White,1,General Ward,2024-06-29
+"General Waste (food, kitchen, paper, office waste)",2.73,No,Green,0,General Ward,2024-05-27
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",0.42,No,Yellow,1,Emergency Room,2024-04-27
+"Plastic Waste (blood bags, urine bags, disposable plastic)",2.7,Yes,Red,1,Emergency Room,2024-03-30
+"General Waste (food, kitchen, paper, office waste)",3.48,No,Green,0,General Ward,2024-08-01
+Metallic Implants,0.82,No,Blue/White,1,General Ward,2024-05-19
+Non-hazardous Garden Waste,0.31,Yes,Green,1,General Ward,2024-09-22
+Discarded Medicines (cytotoxic drugs),4.11,Yes,Black,1,General Ward,2024-11-18
+Expired or Discarded Medicines,4.87,Yes,Yellow,1,ICU,2024-07-14
+"Packaging Material (wrappers, cardboard)",0.91,No,Green,1,Emergency Room,2024-06-23
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",3.92,No,Yellow,1,Laboratory,2024-08-11
+"Packaging Material (wrappers, cardboard)",3.89,Yes,Green,1,General Ward,2024-05-28
+Expired or Discarded Medicines,4.22,Yes,Yellow,1,Surgical Ward,2024-12-05
+"Packaging Material (wrappers, cardboard)",2.91,No,Green,1,General Ward,2024-05-06
+Human Anatomical Waste,0.31,Yes,Yellow,1,General Ward,2024-06-23
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",2.82,Yes,Yellow,1,Emergency Room,2024-05-19
+Discarded Medicines (cytotoxic drugs),1.52,No,Black,1,General Ward,2024-02-16
+"General Waste (food, kitchen, paper, office waste)",2.01,No,Green,0,General Ward,2024-01-12
+"Plastic Waste (blood bags, urine bags, disposable plastic)",1.6,Yes,Red,1,Surgical Ward,2024-03-08
+"Chemical Waste (discarded disinfectants, heavy metals)",1.71,No,Black,1,General Ward,2024-11-25
+"Sharps Waste (needles, scalpels, blades)",2.59,Yes,Blue/White,1,Surgical Ward,2024-10-27
+"Chemical Waste (used disinfectants, lab chemicals)",2.06,Yes,Yellow,1,ICU,2024-01-13
+"Packaging Material (wrappers, cardboard)",4.5,Yes,Green,1,ICU,2024-10-15
+Pressurized Containers (aerosol cans),3.68,No,Black,1,Surgical Ward,2024-12-11
+Discarded Medicines (cytotoxic drugs),1.19,Yes,Black,1,Surgical Ward,2024-01-31
+Metallic Implants,3.33,No,Blue/White,1,ICU,2024-01-03
+Non-hazardous Garden Waste,4.86,No,Green,1,Laboratory,2024-05-07
+"Chemical Waste (discarded disinfectants, heavy metals)",2.22,Yes,Black,1,Emergency Room,2024-11-14
+Non-hazardous Garden Waste,1.41,Yes,Green,1,General Ward,2024-02-15
+Human Anatomical Waste,0.92,Yes,Yellow,1,Surgical Ward,2024-10-31
+"Sharps Waste (needles, scalpels, blades)",2.57,No,Blue/White,1,Emergency Room,2024-04-21
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",2.56,Yes,Yellow,1,General Ward,2024-03-13
+"General Waste (food, kitchen, paper, office waste)",3.84,No,Green,0,General Ward,2024-02-14
+"Chemical Waste (discarded disinfectants, heavy metals)",2.66,No,Black,1,Emergency Room,2024-10-29
+Discarded Medicines (cytotoxic drugs),1.18,Yes,Black,1,Surgical Ward,2024-04-16
+Human Anatomical Waste,1.78,Yes,Yellow,1,General Ward,2024-01-05
+Expired or Discarded Medicines,1.97,No,Yellow,1,Laboratory,2024-03-21
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",0.75,No,Yellow,1,General Ward,2024-06-19
+Discarded Medicines (cytotoxic drugs),1.68,No,Black,1,ICU,2024-09-07
+Expired or Discarded Medicines,2.26,Yes,Yellow,1,Surgical Ward,2024-03-26
+"Sharps Waste (needles, scalpels, blades)",4.47,Yes,Blue/White,1,Emergency Room,2024-10-06
+"Chemical Waste (discarded disinfectants, heavy metals)",4.5,Yes,Black,1,Surgical Ward,2024-05-04
+"Packaging Material (wrappers, cardboard)",2.78,No,Green,1,General Ward,2024-03-02
+"Glassware (ampules, glass vials, slides)",0.32,No,Blue/White,1,Surgical Ward,2024-06-14
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",3.28,Yes,Red,1,Emergency Room,2024-07-03
+Discarded Medicines (cytotoxic drugs),2.46,No,Black,1,ICU,2024-12-29
+"Glassware (ampules, glass vials, slides)",4.41,No,Blue/White,1,Emergency Room,2024-02-24
+Pressurized Containers (aerosol cans),4.48,No,Black,1,Laboratory,2024-06-11
+"Chemical Waste (used disinfectants, lab chemicals)",2.94,Yes,Yellow,1,ICU,2024-02-09
+Human Anatomical Waste,0.55,Yes,Yellow,1,ICU,2024-03-07
+"Glassware (ampules, glass vials, slides)",2.87,No,Blue/White,1,ICU,2024-06-29
+Human Anatomical Waste,2.83,Yes,Yellow,1,Emergency Room,2024-11-26
+Expired or Discarded Medicines,1.22,Yes,Yellow,1,General Ward,2024-04-23
+Metallic Implants,4.82,No,Blue/White,1,Emergency Room,2024-07-07
+"Chemical Waste (discarded disinfectants, heavy metals)",4.37,No,Black,1,ICU,2024-01-09
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",4.34,No,Red,1,General Ward,2024-10-01
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",0.89,No,Yellow,1,ICU,2024-03-03
+"Packaging Material (wrappers, cardboard)",4.4,Yes,Green,1,Surgical Ward,2024-03-02
+"Chemical Waste (used disinfectants, lab chemicals)",3.31,No,Yellow,1,ICU,2024-02-02
+"General Waste (food, kitchen, paper, office waste)",3.14,No,Green,0,General Ward,2024-02-19
+"Sharps Waste (needles, scalpels, blades)",1.0,No,Blue/White,1,Surgical Ward,2024-09-15
+Pressurized Containers (aerosol cans),3.96,Yes,Black,1,ICU,2024-10-09
+Discarded Medicines (cytotoxic drugs),5.0,Yes,Black,1,Surgical Ward,2024-10-21
+Discarded Medicines (cytotoxic drugs),3.54,No,Black,1,General Ward,2024-02-01
+Metallic Implants,4.05,No,Blue/White,1,General Ward,2024-03-09
+Metallic Implants,1.38,Yes,Blue/White,1,Emergency Room,2024-04-22
+"Chemical Waste (used disinfectants, lab chemicals)",1.07,Yes,Yellow,1,Emergency Room,2024-08-13
+Non-hazardous Garden Waste,1.81,Yes,Green,1,ICU,2024-12-15
+"Sharps Waste (needles, scalpels, blades)",4.75,Yes,Blue/White,1,Surgical Ward,2024-11-15
+"Packaging Material (wrappers, cardboard)",4.51,Yes,Green,1,Laboratory,2024-12-02
+"General Waste (food, kitchen, paper, office waste)",0.45,No,Green,0,General Ward,2024-06-08
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",0.98,No,Red,1,General Ward,2024-01-21
+Metallic Implants,1.13,Yes,Blue/White,1,General Ward,2024-09-09
+Pressurized Containers (aerosol cans),2.51,No,Black,1,Surgical Ward,2024-09-12
+Discarded Medicines (cytotoxic drugs),0.78,Yes,Black,1,Laboratory,2024-05-24
+"Sharps Waste (needles, scalpels, blades)",3.78,No,Blue/White,1,Laboratory,2024-03-13
+Expired or Discarded Medicines,4.17,Yes,Yellow,1,Surgical Ward,2024-01-15
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",4.08,No,Yellow,1,Emergency Room,2024-08-20
+"Plastic Waste (blood bags, urine bags, disposable plastic)",2.27,Yes,Red,1,Laboratory,2024-10-10
+Discarded Medicines (cytotoxic drugs),4.77,No,Black,1,General Ward,2024-09-04
+Non-hazardous Garden Waste,4.47,No,Green,1,ICU,2024-05-07
+"Sharps Waste (needles, scalpels, blades)",1.63,No,Blue/White,1,Emergency Room,2024-04-30
+"Plastic Waste (blood bags, urine bags, disposable plastic)",3.34,Yes,Red,1,General Ward,2024-02-26
+Non-hazardous Garden Waste,1.82,No,Green,1,ICU,2024-05-01
+"Chemical Waste (used disinfectants, lab chemicals)",1.04,Yes,Yellow,1,Emergency Room,2024-04-08
+Expired or Discarded Medicines,1.05,No,Yellow,1,ICU,2024-07-06
+"General Waste (food, kitchen, paper, office waste)",4.72,No,Green,0,Surgical Ward,2024-08-19
+Pressurized Containers (aerosol cans),2.1,Yes,Black,1,Emergency Room,2024-02-29
+Expired or Discarded Medicines,0.61,Yes,Yellow,1,Emergency Room,2024-12-30
+"Chemical Waste (discarded disinfectants, heavy metals)",1.45,Yes,Black,1,Laboratory,2024-05-04
+Non-hazardous Garden Waste,0.66,No,Green,1,Emergency Room,2024-07-14
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",1.41,Yes,Yellow,1,ICU,2024-07-22
+"Plastic Waste (blood bags, urine bags, disposable plastic)",4.5,No,Red,1,General Ward,2024-05-20
+"Chemical Waste (used disinfectants, lab chemicals)",4.77,Yes,Yellow,1,Pharmacy,2024-02-29
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",0.52,Yes,Red,1,General Ward,2024-02-26
+Expired or Discarded Medicines,2.35,No,Yellow,1,Emergency Room,2024-09-22
+Expired or Discarded Medicines,0.88,No,Yellow,1,General Ward,2024-11-02
+"Chemical Waste (discarded disinfectants, heavy metals)",2.5,Yes,Black,1,Surgical Ward,2024-12-24
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",1.17,Yes,Yellow,1,General Ward,2024-09-10
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",2.5,Yes,Red,1,Surgical Ward,2024-09-02
+Pressurized Containers (aerosol cans),0.87,Yes,Black,1,ICU,2024-06-14
+Expired or Discarded Medicines,3.65,Yes,Yellow,1,Laboratory,2024-01-07
+"Glassware (ampules, glass vials, slides)",2.23,Yes,Blue/White,1,ICU,2024-11-13
+"Chemical Waste (discarded disinfectants, heavy metals)",2.01,Yes,Black,1,Laboratory,2024-10-30
+Human Anatomical Waste,1.39,Yes,Yellow,1,Laboratory,2024-11-19
+"Sharps Waste (needles, scalpels, blades)",4.23,Yes,Blue/White,1,Emergency Room,2024-04-13
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",0.7,No,Yellow,1,Surgical Ward,2024-05-24
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",3.9,No,Yellow,1,General Ward,2024-08-14
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",2.54,Yes,Red,1,ICU,2024-01-13
+"Sharps Waste (needles, scalpels, blades)",2.51,No,Blue/White,1,Laboratory,2024-10-06
+"Packaging Material (wrappers, cardboard)",2.52,No,Green,1,Emergency Room,2024-10-12
+"Chemical Waste (discarded disinfectants, heavy metals)",0.63,Yes,Black,1,Emergency Room,2024-08-04
+"General Waste (food, kitchen, paper, office waste)",0.99,No,Green,0,Surgical Ward,2024-02-08
+"Glassware (ampules, glass vials, slides)",4.64,Yes,Blue/White,1,Emergency Room,2024-08-02
+Discarded Medicines (cytotoxic drugs),4.22,No,Black,1,Laboratory,2024-05-15
+"Chemical Waste (used disinfectants, lab chemicals)",1.46,Yes,Yellow,1,Laboratory,2024-12-02
+Expired or Discarded Medicines,3.07,No,Yellow,1,Laboratory,2024-07-23
+"General Waste (food, kitchen, paper, office waste)",4.01,No,Green,0,General Ward,2024-12-16
+Pressurized Containers (aerosol cans),3.77,Yes,Black,1,Emergency Room,2024-12-04
+Expired or Discarded Medicines,4.78,No,Yellow,1,Emergency Room,2024-01-12
+Metallic Implants,3.21,Yes,Blue/White,1,ICU,2024-05-17
+Expired or Discarded Medicines,4.01,No,Yellow,1,Surgical Ward,2024-01-15
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",4.58,Yes,Yellow,1,Surgical Ward,2024-08-23
+"Glassware (ampules, glass vials, slides)",0.53,Yes,Blue/White,1,Laboratory,2024-09-03
+Discarded Medicines (cytotoxic drugs),0.24,No,Black,1,General Ward,2024-01-08
+Pressurized Containers (aerosol cans),0.05,No,Black,1,Laboratory,2024-10-02
+"Glassware (ampules, glass vials, slides)",4.47,No,Blue/White,1,General Ward,2024-04-03
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",1.77,Yes,Yellow,1,Pharmacy,2024-09-13
+"Chemical Waste (used disinfectants, lab chemicals)",0.54,Yes,Yellow,1,Laboratory,2024-04-14
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",4.23,Yes,Yellow,1,ICU,2024-08-17
+Human Anatomical Waste,1.66,Yes,Yellow,1,Surgical Ward,2024-07-07
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",4.68,No,Yellow,1,Emergency Room,2024-02-15
+Discarded Medicines (cytotoxic drugs),2.8,No,Black,1,Emergency Room,2024-06-20
+"Glassware (ampules, glass vials, slides)",2.38,Yes,Blue/White,1,General Ward,2024-06-12
+Discarded Medicines (cytotoxic drugs),3.64,Yes,Black,1,General Ward,2024-10-11
+Human Anatomical Waste,2.24,Yes,Yellow,1,Pharmacy,2024-02-26
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",4.51,No,Red,1,Emergency Room,2024-03-16
+Metallic Implants,0.12,Yes,Blue/White,1,Laboratory,2024-02-15
+"Packaging Material (wrappers, cardboard)",2.86,Yes,Green,1,Emergency Room,2024-05-22
+Expired or Discarded Medicines,4.87,No,Yellow,1,General Ward,2024-11-02
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",2.7,No,Red,1,Emergency Room,2024-08-09
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",4.21,No,Yellow,1,Laboratory,2024-11-23
+Human Anatomical Waste,1.89,Yes,Yellow,1,ICU,2024-09-12
+"Chemical Waste (used disinfectants, lab chemicals)",1.65,Yes,Yellow,1,General Ward,2024-03-22
+"General Waste (food, kitchen, paper, office waste)",3.08,No,Green,0,General Ward,2024-06-28
+Metallic Implants,0.22,No,Blue/White,1,Emergency Room,2024-12-09
+Human Anatomical Waste,2.96,Yes,Yellow,1,General Ward,2024-05-16
+Human Anatomical Waste,1.98,Yes,Yellow,1,General Ward,2024-08-06
+"Chemical Waste (used disinfectants, lab chemicals)",1.2,No,Yellow,1,Emergency Room,2024-06-04
+Human Anatomical Waste,1.55,Yes,Yellow,1,Surgical Ward,2024-05-11
+"Chemical Waste (discarded disinfectants, heavy metals)",1.54,Yes,Black,1,Emergency Room,2024-10-07
+Metallic Implants,3.75,No,Blue/White,1,ICU,2024-12-01
+Non-hazardous Garden Waste,2.96,No,Green,1,General Ward,2024-03-18
+Human Anatomical Waste,0.61,Yes,Yellow,1,Surgical Ward,2024-04-30
+"Plastic Waste (blood bags, urine bags, disposable plastic)",0.56,Yes,Red,1,Surgical Ward,2024-05-14
+Human Anatomical Waste,4.29,Yes,Yellow,1,ICU,2024-04-22
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",3.47,Yes,Yellow,1,Laboratory,2024-08-23
+"Chemical Waste (used disinfectants, lab chemicals)",0.13,No,Yellow,1,General Ward,2024-05-24
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",4.9,No,Red,1,ICU,2024-09-19
+Discarded Medicines (cytotoxic drugs),4.19,Yes,Black,1,Emergency Room,2024-03-22
+"Sharps Waste (needles, scalpels, blades)",1.99,No,Blue/White,1,Laboratory,2024-05-17
+Human Anatomical Waste,1.15,Yes,Yellow,1,Surgical Ward,2024-04-18
+"Chemical Waste (used disinfectants, lab chemicals)",2.37,No,Yellow,1,ICU,2024-05-29
+"Sharps Waste (needles, scalpels, blades)",4.4,Yes,Blue/White,1,Laboratory,2024-04-14
+Pressurized Containers (aerosol cans),2.44,No,Black,1,General Ward,2024-09-25
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",3.86,No,Red,1,Laboratory,2024-08-27
+Metallic Implants,1.54,Yes,Blue/White,1,Emergency Room,2024-10-13
+Discarded Medicines (cytotoxic drugs),4.09,Yes,Black,1,Emergency Room,2024-08-28
+"Chemical Waste (used disinfectants, lab chemicals)",0.86,No,Yellow,1,Surgical Ward,2024-06-17
+"General Waste (food, kitchen, paper, office waste)",4.39,No,Green,0,Surgical Ward,2024-03-05
+"Plastic Waste (blood bags, urine bags, disposable plastic)",1.04,No,Red,1,Surgical Ward,2024-05-06
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",1.88,Yes,Yellow,1,Surgical Ward,2024-05-11
+"General Waste (food, kitchen, paper, office waste)",3.81,No,Green,0,Emergency Room,2024-04-21
+Non-hazardous Garden Waste,3.09,No,Green,1,General Ward,2024-12-24
+Human Anatomical Waste,0.67,Yes,Yellow,1,Laboratory,2024-12-03
+Discarded Medicines (cytotoxic drugs),3.13,Yes,Black,1,Laboratory,2024-02-08
+Expired or Discarded Medicines,3.21,No,Yellow,1,General Ward,2024-03-14
+"Packaging Material (wrappers, cardboard)",3.58,Yes,Green,1,ICU,2024-06-17
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",0.57,Yes,Yellow,1,Surgical Ward,2024-07-04
+"General Waste (food, kitchen, paper, office waste)",4.14,No,Green,0,Emergency Room,2024-02-20
+"Packaging Material (wrappers, cardboard)",2.35,Yes,Green,1,ICU,2024-05-29
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",0.93,Yes,Yellow,1,ICU,2024-09-22
+Metallic Implants,2.48,No,Blue/White,1,Emergency Room,2024-01-08
+Expired or Discarded Medicines,3.97,Yes,Yellow,1,ICU,2024-07-16
+"Sharps Waste (needles, scalpels, blades)",0.54,No,Blue/White,1,Emergency Room,2024-02-10
+Pressurized Containers (aerosol cans),3.41,Yes,Black,1,Surgical Ward,2024-03-25
+Pressurized Containers (aerosol cans),3.48,No,Black,1,Emergency Room,2024-09-29
+Non-hazardous Garden Waste,2.43,No,Green,1,Emergency Room,2024-08-25
+Human Anatomical Waste,1.28,Yes,Yellow,1,General Ward,2024-11-20
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",0.56,Yes,Red,1,Emergency Room,2024-07-20
+"Glassware (ampules, glass vials, slides)",2.96,Yes,Blue/White,1,Emergency Room,2024-01-19
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",3.38,Yes,Yellow,1,Surgical Ward,2024-03-20
+"Packaging Material (wrappers, cardboard)",4.16,Yes,Green,1,General Ward,2024-06-07
+"Plastic Waste (blood bags, urine bags, disposable plastic)",1.84,Yes,Red,1,Laboratory,2024-08-08
+"Sharps Waste (needles, scalpels, blades)",4.43,Yes,Blue/White,1,ICU,2024-06-06
+"Sharps Waste (needles, scalpels, blades)",0.57,Yes,Blue/White,1,General Ward,2024-03-19
+"Glassware (ampules, glass vials, slides)",2.32,Yes,Blue/White,1,Pharmacy,2024-09-07
+"Sharps Waste (needles, scalpels, blades)",2.93,Yes,Blue/White,1,Surgical Ward,2024-07-08
+"Sharps Waste (needles, scalpels, blades)",0.17,Yes,Blue/White,1,Emergency Room,2024-02-16
+"Glassware (ampules, glass vials, slides)",3.69,Yes,Blue/White,1,General Ward,2024-03-31
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",0.63,No,Red,1,Surgical Ward,2024-06-09
+"Plastic Waste (blood bags, urine bags, disposable plastic)",1.58,Yes,Red,1,Emergency Room,2024-01-14
+Pressurized Containers (aerosol cans),3.12,No,Black,1,Emergency Room,2024-11-17
+"Chemical Waste (discarded disinfectants, heavy metals)",0.1,No,Black,1,Laboratory,2024-09-12
+"Chemical Waste (used disinfectants, lab chemicals)",1.84,No,Yellow,1,General Ward,2024-06-06
+"Chemical Waste (discarded disinfectants, heavy metals)",4.1,Yes,Black,1,General Ward,2024-05-30
+Discarded Medicines (cytotoxic drugs),0.53,No,Black,1,Surgical Ward,2024-07-07
+"General Waste (food, kitchen, paper, office waste)",2.93,No,Green,0,Surgical Ward,2024-09-12
+"Packaging Material (wrappers, cardboard)",2.05,Yes,Green,1,ICU,2024-05-02
+Discarded Medicines (cytotoxic drugs),0.53,Yes,Black,1,General Ward,2024-07-13
+"General Waste (food, kitchen, paper, office waste)",1.25,No,Green,0,Emergency Room,2024-07-20
+"Chemical Waste (discarded disinfectants, heavy metals)",2.37,Yes,Black,1,Laboratory,2024-09-20
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",0.55,Yes,Red,1,Emergency Room,2024-01-24
+"General Waste (food, kitchen, paper, office waste)",4.0,No,Green,0,General Ward,2024-07-19
+"Chemical Waste (used disinfectants, lab chemicals)",2.61,Yes,Yellow,1,ICU,2024-07-26
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",0.15,No,Red,1,Pharmacy,2024-02-14
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",0.12,No,Yellow,1,General Ward,2024-03-18
+Metallic Implants,1.45,Yes,Blue/White,1,Pharmacy,2024-03-30
+Discarded Medicines (cytotoxic drugs),3.6,Yes,Black,1,ICU,2024-04-25
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",2.56,No,Red,1,General Ward,2024-06-24
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",2.27,No,Yellow,1,Emergency Room,2024-08-29
+"Sharps Waste (needles, scalpels, blades)",3.97,No,Blue/White,1,Laboratory,2024-08-24
+"Packaging Material (wrappers, cardboard)",3.57,No,Green,1,General Ward,2024-05-03
+Metallic Implants,4.21,No,Blue/White,1,ICU,2024-08-15
+"General Waste (food, kitchen, paper, office waste)",0.41,No,Green,0,General Ward,2024-10-12
+Discarded Medicines (cytotoxic drugs),1.22,No,Black,1,General Ward,2024-09-08
+"Packaging Material (wrappers, cardboard)",2.24,No,Green,1,Emergency Room,2024-02-24
+"Chemical Waste (discarded disinfectants, heavy metals)",0.88,Yes,Black,1,General Ward,2024-11-06
+"Glassware (ampules, glass vials, slides)",0.84,Yes,Blue/White,1,ICU,2024-08-25
+Metallic Implants,3.35,Yes,Blue/White,1,Emergency Room,2024-02-20
+"Glassware (ampules, glass vials, slides)",0.1,No,Blue/White,1,Emergency Room,2024-07-14
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",0.42,Yes,Red,1,ICU,2024-10-05
+Expired or Discarded Medicines,1.0,No,Yellow,1,General Ward,2024-11-28
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",2.6,No,Yellow,1,General Ward,2024-04-16
+Metallic Implants,4.44,No,Blue/White,1,General Ward,2024-04-07
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",0.75,No,Yellow,1,Emergency Room,2024-04-16
+Metallic Implants,4.38,Yes,Blue/White,1,Laboratory,2024-12-01
+"Chemical Waste (used disinfectants, lab chemicals)",2.1,No,Yellow,1,Emergency Room,2024-10-25
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",0.59,Yes,Yellow,1,General Ward,2024-07-06
+"Packaging Material (wrappers, cardboard)",2.78,Yes,Green,1,General Ward,2024-08-02
+Non-hazardous Garden Waste,0.18,Yes,Green,1,Surgical Ward,2024-01-09
+Expired or Discarded Medicines,2.42,Yes,Yellow,1,ICU,2024-12-22
+"General Waste (food, kitchen, paper, office waste)",4.33,No,Green,0,Laboratory,2024-05-10
+"General Waste (food, kitchen, paper, office waste)",1.81,No,Green,0,General Ward,2024-10-30
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",2.77,Yes,Yellow,1,Laboratory,2024-04-15
+Human Anatomical Waste,3.25,Yes,Yellow,1,ICU,2024-09-21
+Discarded Medicines (cytotoxic drugs),2.31,Yes,Black,1,ICU,2024-05-17
+Discarded Medicines (cytotoxic drugs),1.63,Yes,Black,1,Laboratory,2024-12-19
+Expired or Discarded Medicines,4.29,No,Yellow,1,Emergency Room,2024-12-23
+Discarded Medicines (cytotoxic drugs),4.36,Yes,Black,1,Surgical Ward,2024-12-23
+Human Anatomical Waste,4.31,Yes,Yellow,1,General Ward,2024-08-14
+"Chemical Waste (used disinfectants, lab chemicals)",0.39,No,Yellow,1,Surgical Ward,2024-01-29
+Human Anatomical Waste,3.51,Yes,Yellow,1,ICU,2024-02-16
+"Chemical Waste (discarded disinfectants, heavy metals)",4.41,No,Black,1,Emergency Room,2024-02-19
+Discarded Medicines (cytotoxic drugs),0.26,No,Black,1,Emergency Room,2024-12-17
+Discarded Medicines (cytotoxic drugs),3.09,Yes,Black,1,Emergency Room,2024-09-20
+"Packaging Material (wrappers, cardboard)",3.5,Yes,Green,1,Emergency Room,2024-03-08
+"Plastic Waste (blood bags, urine bags, disposable plastic)",3.05,No,Red,1,Emergency Room,2024-10-10
+Discarded Medicines (cytotoxic drugs),3.64,No,Black,1,General Ward,2024-09-09
+"Chemical Waste (used disinfectants, lab chemicals)",0.08,No,Yellow,1,Surgical Ward,2024-10-05
+"Chemical Waste (used disinfectants, lab chemicals)",0.95,No,Yellow,1,Laboratory,2024-02-13
+"Chemical Waste (discarded disinfectants, heavy metals)",4.52,Yes,Black,1,General Ward,2024-02-22
+"Packaging Material (wrappers, cardboard)",1.15,No,Green,1,Surgical Ward,2024-04-27
+Human Anatomical Waste,4.62,Yes,Yellow,1,Emergency Room,2024-05-31
+"General Waste (food, kitchen, paper, office waste)",2.75,No,Green,0,ICU,2024-02-20
+"Chemical Waste (used disinfectants, lab chemicals)",4.5,Yes,Yellow,1,Emergency Room,2024-02-23
+"General Waste (food, kitchen, paper, office waste)",4.41,No,Green,0,Surgical Ward,2024-05-25
+Non-hazardous Garden Waste,1.52,No,Green,1,General Ward,2024-04-02
+"Sharps Waste (needles, scalpels, blades)",1.18,No,Blue/White,1,General Ward,2024-12-21
+"Sharps Waste (needles, scalpels, blades)",4.14,No,Blue/White,1,ICU,2024-03-03
+Pressurized Containers (aerosol cans),4.86,Yes,Black,1,Surgical Ward,2024-07-21
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",0.92,Yes,Red,1,Pharmacy,2024-02-22
+"Packaging Material (wrappers, cardboard)",4.95,Yes,Green,1,ICU,2024-07-01
+Pressurized Containers (aerosol cans),4.98,No,Black,1,Emergency Room,2024-01-31
+Discarded Medicines (cytotoxic drugs),4.03,No,Black,1,Emergency Room,2024-12-20
+Discarded Medicines (cytotoxic drugs),4.72,Yes,Black,1,General Ward,2024-04-15
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",1.7,No,Red,1,Emergency Room,2024-06-29
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",0.44,Yes,Red,1,Surgical Ward,2024-01-14
+Pressurized Containers (aerosol cans),1.05,Yes,Black,1,Pharmacy,2024-11-06
+Expired or Discarded Medicines,3.66,Yes,Yellow,1,ICU,2024-01-27
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",1.21,Yes,Red,1,Emergency Room,2024-05-20
+Discarded Medicines (cytotoxic drugs),3.02,Yes,Black,1,Surgical Ward,2024-06-26
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",1.16,No,Yellow,1,Pharmacy,2024-09-16
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",3.53,Yes,Red,1,General Ward,2024-10-17
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",4.76,Yes,Yellow,1,Surgical Ward,2024-02-24
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",0.77,No,Yellow,1,General Ward,2024-02-12
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",0.09,Yes,Red,1,General Ward,2024-04-09
+Expired or Discarded Medicines,0.45,No,Yellow,1,ICU,2024-04-05
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",3.26,No,Yellow,1,Surgical Ward,2024-02-19
+Discarded Medicines (cytotoxic drugs),3.68,No,Black,1,ICU,2024-01-31
+Discarded Medicines (cytotoxic drugs),3.54,No,Black,1,General Ward,2024-02-08
+Non-hazardous Garden Waste,2.21,Yes,Green,1,Surgical Ward,2024-05-15
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",4.3,No,Yellow,1,Surgical Ward,2024-04-18
+Human Anatomical Waste,3.7,Yes,Yellow,1,Emergency Room,2024-03-24
+Human Anatomical Waste,0.31,Yes,Yellow,1,ICU,2024-02-28
+Metallic Implants,2.5,Yes,Blue/White,1,General Ward,2024-06-04
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",3.52,Yes,Yellow,1,ICU,2024-11-02
+Expired or Discarded Medicines,4.58,Yes,Yellow,1,Emergency Room,2024-02-28
+"General Waste (food, kitchen, paper, office waste)",4.0,No,Green,0,Emergency Room,2024-12-27
+"Chemical Waste (discarded disinfectants, heavy metals)",2.52,Yes,Black,1,General Ward,2024-09-01
+"General Waste (food, kitchen, paper, office waste)",0.56,No,Green,0,General Ward,2024-01-31
+"Sharps Waste (needles, scalpels, blades)",1.48,No,Blue/White,1,Pharmacy,2024-09-02
+"Chemical Waste (used disinfectants, lab chemicals)",4.18,Yes,Yellow,1,Laboratory,2024-05-01
+"General Waste (food, kitchen, paper, office waste)",4.17,No,Green,0,Emergency Room,2024-08-05
+Metallic Implants,4.94,No,Blue/White,1,General Ward,2024-10-22
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",0.74,Yes,Yellow,1,ICU,2024-01-14
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",1.43,Yes,Yellow,1,Emergency Room,2024-06-28
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",2.3,No,Yellow,1,General Ward,2024-09-16
+"Packaging Material (wrappers, cardboard)",5.0,No,Green,1,Surgical Ward,2024-09-11
+"Plastic Waste (blood bags, urine bags, disposable plastic)",3.29,No,Red,1,General Ward,2024-02-21
+"Glassware (ampules, glass vials, slides)",1.21,No,Blue/White,1,Laboratory,2024-03-20
+Human Anatomical Waste,2.71,Yes,Yellow,1,Emergency Room,2024-04-26
+"Plastic Waste (blood bags, urine bags, disposable plastic)",3.45,Yes,Red,1,ICU,2024-03-01
+Metallic Implants,3.77,Yes,Blue/White,1,Surgical Ward,2024-04-13
+Expired or Discarded Medicines,0.89,Yes,Yellow,1,Surgical Ward,2024-10-26
+Expired or Discarded Medicines,0.28,Yes,Yellow,1,Laboratory,2024-02-28
+"Sharps Waste (needles, scalpels, blades)",1.43,Yes,Blue/White,1,Surgical Ward,2024-02-09
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",3.82,Yes,Yellow,1,General Ward,2024-08-30
+Non-hazardous Garden Waste,3.86,No,Green,1,ICU,2024-01-24
+"Packaging Material (wrappers, cardboard)",3.3,No,Green,1,Laboratory,2024-07-08
+Discarded Medicines (cytotoxic drugs),1.57,Yes,Black,1,ICU,2024-02-18
+Metallic Implants,1.8,No,Blue/White,1,Emergency Room,2024-04-21
+"Chemical Waste (used disinfectants, lab chemicals)",1.78,Yes,Yellow,1,Emergency Room,2024-11-15
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",3.52,Yes,Yellow,1,General Ward,2024-05-19
+Expired or Discarded Medicines,4.6,Yes,Yellow,1,Surgical Ward,2024-01-09
+Expired or Discarded Medicines,3.55,No,Yellow,1,Surgical Ward,2024-09-10
+"Glassware (ampules, glass vials, slides)",1.89,No,Blue/White,1,Laboratory,2024-03-11
+Expired or Discarded Medicines,3.06,Yes,Yellow,1,Emergency Room,2024-12-18
+"Sharps Waste (needles, scalpels, blades)",0.64,No,Blue/White,1,Surgical Ward,2024-02-23
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",3.34,No,Yellow,1,Surgical Ward,2024-12-13
+"Packaging Material (wrappers, cardboard)",0.18,Yes,Green,1,General Ward,2024-06-24
+"Glassware (ampules, glass vials, slides)",1.22,No,Blue/White,1,ICU,2024-07-05
+"Packaging Material (wrappers, cardboard)",0.19,No,Green,1,Emergency Room,2024-04-13
+"General Waste (food, kitchen, paper, office waste)",0.38,No,Green,0,ICU,2024-02-08
+Metallic Implants,0.33,Yes,Blue/White,1,Surgical Ward,2024-10-06
+"Plastic Waste (blood bags, urine bags, disposable plastic)",4.44,No,Red,1,ICU,2024-04-03
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",4.65,Yes,Yellow,1,Surgical Ward,2024-04-20
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",3.76,No,Red,1,ICU,2024-05-03
+Human Anatomical Waste,1.9,Yes,Yellow,1,Surgical Ward,2024-09-10
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",4.91,No,Yellow,1,Emergency Room,2024-08-29
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",0.83,Yes,Yellow,1,Emergency Room,2024-04-29
+Human Anatomical Waste,2.66,Yes,Yellow,1,ICU,2024-08-10
+"Sharps Waste (needles, scalpels, blades)",2.06,Yes,Blue/White,1,Emergency Room,2024-10-12
+Pressurized Containers (aerosol cans),3.25,Yes,Black,1,Laboratory,2024-01-15
+"General Waste (food, kitchen, paper, office waste)",3.6,No,Green,0,Laboratory,2024-04-10
+"Chemical Waste (discarded disinfectants, heavy metals)",2.81,Yes,Black,1,General Ward,2024-06-03
+"Chemical Waste (used disinfectants, lab chemicals)",4.68,Yes,Yellow,1,General Ward,2024-02-12
+Expired or Discarded Medicines,2.27,Yes,Yellow,1,ICU,2024-02-15
+Expired or Discarded Medicines,2.17,No,Yellow,1,Emergency Room,2024-11-28
+Metallic Implants,4.94,Yes,Blue/White,1,Surgical Ward,2024-07-12
+"Soiled Waste (blood-soaked cotton, dressings, plaster casts)",0.62,Yes,Yellow,1,General Ward,2024-02-17
+"General Waste (food, kitchen, paper, office waste)",3.54,No,Green,0,ICU,2024-10-30
+Metallic Implants,3.2,Yes,Blue/White,1,General Ward,2024-12-09
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",2.66,No,Red,1,Laboratory,2024-08-04
+"Chemical Waste (discarded disinfectants, heavy metals)",3.74,Yes,Black,1,Emergency Room,2024-01-26
+Expired or Discarded Medicines,2.88,No,Yellow,1,ICU,2024-10-03
+Non-hazardous Garden Waste,4.54,Yes,Green,1,General Ward,2024-12-23
+"Sharps Waste (needles, scalpels, blades)",2.65,No,Blue/White,1,General Ward,2024-09-06
+"Packaging Material (wrappers, cardboard)",0.1,No,Green,1,Laboratory,2024-02-12
+Human Anatomical Waste,2.42,Yes,Yellow,1,ICU,2024-11-14
+"Chemical Waste (used disinfectants, lab chemicals)",2.27,No,Yellow,1,General Ward,2024-01-03
+Metallic Implants,1.07,No,Blue/White,1,General Ward,2024-05-26
+Expired or Discarded Medicines,2.52,No,Yellow,1,Surgical Ward,2024-07-09
+"Plastic Waste (blood bags, urine bags, disposable plastic)",0.49,No,Red,1,Emergency Room,2024-01-24
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",1.14,Yes,Yellow,1,ICU,2024-08-03
+Metallic Implants,2.64,Yes,Blue/White,1,General Ward,2024-05-07
+"Contaminated Recyclable Waste (IV tubes, catheters, syringes without needles, gloves)",3.85,Yes,Red,1,Emergency Room,2024-08-18
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",3.16,No,Yellow,1,Pharmacy,2024-10-29
+Metallic Implants,2.15,No,Blue/White,1,Laboratory,2024-12-19
+"Chemical Waste (discarded disinfectants, heavy metals)",2.67,Yes,Black,1,Surgical Ward,2024-02-15
+"Packaging Material (wrappers, cardboard)",3.57,Yes,Green,1,Surgical Ward,2024-05-24
+"Packaging Material (wrappers, cardboard)",0.36,Yes,Green,1,Emergency Room,2024-03-26
+Expired or Discarded Medicines,2.66,Yes,Yellow,1,Emergency Room,2024-03-15
+"Microbiology & Biotechnology Waste (lab cultures, stocks)",2.88,Yes,Yellow,1,Emergency Room,2024-03-12
+"Chemical Waste (discarded disinfectants, heavy metals)",2.85,Yes,Black,1,Emergency Room,2024-03-01
+"General Waste (food, kitchen, paper, office waste)",2.44,No,Green,0,Surgical Ward,2024-11-11
+Metallic Implants,1.72,Yes,Blue/White,1,Surgical Ward,2024-05-18
+"Chemical Waste (discarded disinfectants, heavy metals)",4.42,Yes,Black,1,Laboratory,2024-02-29
+Expired or Discarded Medicines,1.38,Yes,Yellow,1,Surgical Ward,2024-04-01
